@@ -2,7 +2,7 @@
 
 **`Estudante de programação`**
 
-Me chamo Rafael Andriotti Rebelo, tenho 22 anos e sou natural do Rio Grande do Sul. Conclui o ensino médio na escola Gomes Jardim, em Guaíba. Atualmente estou cursando análise e desenvolvimento de sistemas na universidade da Uninter Guaíba, sou fascinado por tecnologia, atualmente trabalho na prefeitura de Guaíba na área de suporte.
+Me chamo Rafael Andriotti Rebelo, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente estou cursando análise e desenvolvimento de sistemas na universidade da Uninter Guaíba, sou fascinado por tecnologia, atualmente trabalho na prefeitura de Guaíba na área de suporte técnico ao sistema IPM.
 
 ---
 
