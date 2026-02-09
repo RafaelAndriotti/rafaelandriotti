@@ -39,6 +39,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Rafael-Andriotti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelandriotti/)](https://www.linkedin.com/in/rafaelandriotti/)
+[![Linkedin](https://img.shields.io/badge/-RafaelAndriotti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelandriotti/)](https://www.linkedin.com/in/rafaelandriotti/)
 [![Gmail Badge](https://img.shields.io/badge/-rafael.rebelo47@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.rebelo47@gmail.com)](mailto:rafael.rebelo47@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/rafaelandriotti?label=follow&style=social)](github.com/rafaelandriotti)
