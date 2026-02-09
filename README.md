@@ -1,29 +1,44 @@
-# 🧑‍💻 Rafael Andriotti Rebelo
+## Sobre mim
 
-**`Estudante de programação`**
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Análise e desenvolvimento de sistemas na Universidade Uninter.
+- 💼 Trabalhando como Suporte técnico ao sistema IPM na prefeitura de Guaíba.
+- 🌱 Aprendendo mais sobre JavaScript, Node.JS, API Rest, MongoDB.
 
-Me chamo Rafael Andriotti Rebelo, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente estou cursando análise e desenvolvimento de sistemas na universidade da Uninter Guaíba, sou fascinado por tecnologia, atualmente trabalho na prefeitura de Guaíba na área de suporte técnico ao sistema IPM.
+## Minhas Skills
 
----
+**Aplicações e dados**
 
-<p align="left">
-      <a href="https://github.com/RafaelAndriotti?tab=followers">
-         <img alt="followers" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/RafaelAndriotti?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"/></a>
-      <a href="https://github.com/RafaelAndriotti?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RafaelAndriotti?color=55960c&style=for-the-badge&labelColor=488207&logo=star&estrelas"/></a>
-   </p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodejs)
 
----
+**Utilidades**
 
-### 🤖 Linguagens e Tecnologias
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-<img align="left" alt="Node.JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+**DevOps**
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+**Ferramentas de desenvolvimento**
 
-<br><br>
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
+<br/>
 
+<a href="https://github.com/rafaelandriotti" title="Perfil do Rafael">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelandriotti&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelandriotti/)](https://www.linkedin.com/in/rafaelandriotti/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael.rebelo47@gmail.com)](mailto:rafael.rebelo47@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](github.com/rafaelandriotti)
