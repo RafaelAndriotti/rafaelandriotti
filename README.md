@@ -3,7 +3,6 @@
   <b>Desenvolvedor Back-end em formação · Suporte Técnico de TI · Estudante de ADS</b>
 </p>
 ---
-🧑‍💻 Sobre mim
 🎓 Cursando Análise e Desenvolvimento de Sistemas na Uninter 
 💼 Trabalhando como Suporte Técnico de TI na Prefeitura Municipal de Guaíba, com experiência no ERP IPM Sistemas
 🚀 Focado em desenvolvimento Back-end com Node.js, Express.js e APIs RESTful
