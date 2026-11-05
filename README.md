@@ -10,7 +10,6 @@
 Desenvolvo **APIs REST em camadas** com Node.js, TypeScript e Express, usando PostgreSQL + Prisma, autenticação JWT, validação com Zod e testes automatizados com Vitest e Supertest. Uso Docker, CI/CD no GitHub Actions e faço front-ends em React quando o projeto pede.
 
 - 💼 **Suporte Técnico de TI e Sistemas** na Prefeitura Municipal de Guaíba (desde 03/2025): levanto regras de negócio de RH, compras, protocolo e financeiro no ERP IPM e aplico isso na modelagem de dados e no desenho de APIs
-- 🗂️ Conduzo a implantação do **GLPI**, com modelo de concessões de acesso em PostgreSQL (validade temporal e histórico não destrutivo)
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Uninter (conclusão prevista em 09/2027)
 - 🌎 Português nativo · Inglês avançado
 
